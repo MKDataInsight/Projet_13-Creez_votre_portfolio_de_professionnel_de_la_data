@@ -1,8 +1,14 @@
 # Projet 13 - Créez votre portfolio de professionnel de la data
 
-Pour répondre à une offre d'emploi fictive, je dois élaborer mon portfolio avec une méthodologie de gestion de projet.
 
+# Scénario
 
-Dashboards : Dashboards de profil et de veille, csv sources, et vidéo de formation sur la prise en main de Power BI
+Pour répondre à une offre d'emploi de l'entreprise , je dois élaborer mon portfolio avec une méthodologie de gestion de projet.
 
-Livrables organisationnels : Documents relatifs à la gestion du projet
+# Organisation du repo
+
+**_Dashboards_** : Dashboards de profil et de veille, csv sources, et vidéo de formation sur la prise en main de Power BI
+
+**_Livrables organisationnels_** : Documents relatifs à la gestion du projet
+
+**_assets_** : Fichiers utile à la mise en page Github
