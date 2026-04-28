@@ -3,7 +3,8 @@
 
 # Scénario
 
-Pour répondre à une offre d'emploi de l'entreprise , je dois élaborer mon portfolio avec une méthodologie de gestion de projet.
+![Aéroworld](/assets/images/canvas.png)
+Pour répondre à une offre d'emploi de l'entreprise Aéroworld , je dois élaborer mon portfolio avec une méthodologie de gestion de projet.
 
 # Organisation du repo
 
