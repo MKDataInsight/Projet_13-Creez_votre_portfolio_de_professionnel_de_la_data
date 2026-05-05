@@ -7,15 +7,11 @@
 - [Section auteur](#section-auteur)
 
 # Scénario
-
 ![Aéroworld](/assets/canvas.png)
-
 Pour répondre à une offre d'emploi de l'entreprise Aéroworld , je dois élaborer mon portfolio avec une méthodologie de gestion de projet.
-
 Ce portfolio devra mettre en avant mes compétences et ma posture de consultant data apte à gérer un projet dans son ensemble.
 
 # Objectifs et compétences
-
 - **Objectif 1** : Accompagner les équipes sur la prise en main des outils
 - **Objectif 2** : Adapter sa posture de professionnel en se positionnant comme consultant
 - **Objectif 3** : Effectuer une veille métier et technologique
@@ -26,13 +22,10 @@ Ce portfolio devra mettre en avant mes compétences et ma posture de consultant 
 - **Objectif 8** : Organiser un projet d'analyse data grâce à des outils de gestion de projet
 
 # Structure du projet
-
+Le projet est organisé comme suit :
 **_Dashboards_** : Dashboards de profil et de veille, csv sources, et vidéo de formation sur la prise en main de Power BI
-
 **_Livrables organisationnels_** : Documents relatifs à la gestion du projet et aux besoins client
-
 **_assets_** : Fichiers utile à la mise en page Github
-
 
 ## Section auteur
 **Auteur** : MKDataInsight 
