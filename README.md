@@ -8,6 +8,7 @@
 
 # Scénario
 ![Aéroworld](/assets/canvas.png)
+
 Pour répondre à une offre d'emploi de l'entreprise Aéroworld , je dois élaborer mon portfolio avec une méthodologie de gestion de projet.
 Ce portfolio devra mettre en avant mes compétences et ma posture de consultant data apte à gérer un projet dans son ensemble.
 
