@@ -1,5 +1,10 @@
 # Projet 13 - Créez votre portfolio de professionnel de la data
 
+## Table des matières
+- [Scénario](#scénario)
+- [Objectifs et compétences](#objectifs-et-compétences)
+- [Structure du projet](#structure-du-projet)
+- [Section auteur](#section-auteur)
 
 # Scénario
 
@@ -9,7 +14,7 @@ Pour répondre à une offre d'emploi de l'entreprise Aéroworld , je dois élabo
 
 Ce portfolio devra mettre en avant mes compétences et ma posture de consultant data apte à gérer un projet dans son ensemble.
 
-# Objectifs pédagogiques et compétences développées
+# Objectifs et compétences
 
 - **Objectif 1** : Accompagner les équipes sur la prise en main des outils
 - **Objectif 2** : Adapter sa posture de professionnel en se positionnant comme consultant
@@ -20,10 +25,15 @@ Ce portfolio devra mettre en avant mes compétences et ma posture de consultant 
 - **Objectif 7** : Identifier les besoins métier en intégrant les différentes contraintes
 - **Objectif 8** : Organiser un projet d'analyse data grâce à des outils de gestion de projet
 
-# Organisation du repo
+# Structure du projet
 
 **_Dashboards_** : Dashboards de profil et de veille, csv sources, et vidéo de formation sur la prise en main de Power BI
 
 **_Livrables organisationnels_** : Documents relatifs à la gestion du projet et aux besoins client
 
 **_assets_** : Fichiers utile à la mise en page Github
+
+
+## Section auteur
+**Auteur** : MKDataInsight 
+**Date** : 2026-05-05
