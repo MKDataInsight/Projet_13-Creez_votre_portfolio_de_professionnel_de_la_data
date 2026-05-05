@@ -24,12 +24,9 @@ Ce portfolio devra mettre en avant mes compétences et ma posture de consultant 
 
 # Structure du projet
 Le projet est organisé comme suit :
-
-**_Dashboards_** : Dashboards de profil et de veille, csv sources, et vidéo de formation sur la prise en main de Power BI
-
-**_Livrables organisationnels_** : Documents relatifs à la gestion du projet et aux besoins client
-
-**_assets_** : Fichiers utiles à la mise en page Github
+- **_Dashboards_** : Dashboards de profil et de veille, csv sources, et vidéo de formation sur la prise en main de Power BI
+- **_Livrables organisationnels_** : Documents relatifs à la gestion du projet et aux besoins client
+- **_assets_** : Fichiers utiles à la mise en page Github
 
 ## Section auteur
 **Auteur** : MKDataInsight 
