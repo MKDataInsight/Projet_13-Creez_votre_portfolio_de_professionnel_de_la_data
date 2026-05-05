@@ -19,7 +19,7 @@ Ce portfolio devra mettre en avant mes compétences et ma posture de consultant 
 - **Objectif 6** : Formaliser un cahier des charges fonctionnel pour cadrer les besoins et les solutions
 - **Objectif 7** : Identifier les besoins métier en intégrant les différentes contraintes
 - **Objectif 8** : Organiser un projet d'analyse data grâce à des outils de gestion de projet
-- 
+
 # Organisation du repo
 
 **_Dashboards_** : Dashboards de profil et de veille, csv sources, et vidéo de formation sur la prise en main de Power BI
